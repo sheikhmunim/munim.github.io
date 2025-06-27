@@ -23,6 +23,8 @@ Key Areas I Worked On:
 • Nav2 Setup and Visual Servoing Integration
 • Debugging Transform and Time Synchronisation Challenges
 
+[GitHub Repository](https://github.com/sheikhmunim/rosbot_delivery_system)
+
 ## 📺 Watch the system in Action
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_XUKwFcZk8w" frameborder="0" allowfullscreen></iframe>
@@ -42,6 +44,7 @@ Contributed to the development of an autonomous robot capable of exploring unkno
 
 **Tools & Technologies:** ROS2, Python, TF2, RViz, Computer Vision  
 
+[GitHub Repository](https://github.com/sheikhmunim/Rosbot_SNC)
 ---
 
 ## Colon Cancer Image Classification
@@ -51,6 +54,8 @@ As part of a biomedical machine learning project, I developed a deep learning sy
 I designed and trained convolutional neural networks (CNNs) with techniques such as L2 regularization, dropout, batch normalization, and focal loss to improve model robustness and handle class imbalance. The final model achieved 90% accuracy and 0.85 F1-score for cancer detection, and 81% accuracy and 0.67 macro F1-score for cell type classification.
 
 Additionally, I explored semi-supervised learning by incorporating unlabeled data, providing practical insights into its benefits and limitations for real-world medical AI applications.
+
+[GitHub Repository](https://github.com/sheikhmunim/cml_assignment2)
 
 ---
 
@@ -81,6 +86,7 @@ To handle instance preparation, result processing, and validation, we developed 
 
 ### Reflections
 This project demonstrated how ASP, when combined with well-designed heuristics, can rival traditional optimization methods like Tabu Search. The experience deepened my understanding of constraint modeling, solver tuning, and hybrid AI system design.
+
 
 ---
 
