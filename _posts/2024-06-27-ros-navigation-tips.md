@@ -1,5 +1,8 @@
 ---
 title: "5 Quick Tips for ROS2 Navigation"
+date: 2024-06-27
+description: "Quick practical tips for improving ROS2 Navigation stability and troubleshooting TF issues."
+tags: [ros2, navigation, robotics]
 ---
 
 I've been working extensively with ROS2 Navigation and wanted to share some quick tips that saved me headaches:

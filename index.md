@@ -1,6 +1,8 @@
-<meta name="description" content="Sheikh Abdul Munim - Master of AI | Robotics | AI Planning | RMIT University">
-<meta name="keywords" content="Sheikh Abdul Munim, Robotics, AI, AI Planning, RMIT, Tiago Robot, NLP, Autonomous Systems">
-<meta name="author" content="Sheikh Abdul Munim">
+---
+description: "Blog by Sheikh Abdul Munim covering AI, robotics, ROS, and autonomous systems."
+keywords: "AI Blog, Robotics Blog, ROS2, Tiago Robot, NLP, AI Planning, Sheikh Abdul Munim"
+author: "Sheikh Abdul Munim"
+---
 
 
 <p style="float: right; margin-left: 20px;">
