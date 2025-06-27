@@ -1,8 +1,6 @@
-<table>
-<tr>
-<td style="width:70%; vertical-align: top;">
-
-<h1>Sheikh Abdul Munim</h1>
+<p style="float: right; margin-left: 20px;">
+  <img src="assets/me.jpg" alt="Profile Photo" width="150">
+</p>
 
 <p><strong>Master of Artificial Intelligence | Robotics | AI Planning | RMIT University</strong></p>
 
@@ -27,12 +25,3 @@ Currently, I am pursuing my Master's at RMIT University, building intelligent ta
   <li><a href="https://github.com/sheikhmunim">GitHub Profile</a></li>
   <li><a href="mailto:s4076159@student.rmit.edu.au">Email Me</a></li>
 </ul>
-
-</td>
-<td style="width:30%; text-align: center;">
-
-<img src="assets/me.jpg" alt="Profile Photo" width="180">
-
-</td>
-</tr>
-</table>
