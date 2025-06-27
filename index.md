@@ -17,5 +17,6 @@ Currently, I am pursuing my Master's at RMIT University, building intelligent ta
 
 - [About Me](about.md)  
 - [Projects](projects.md)  
+- [Blog](blog.md)  
 - [GitHub Profile](https://github.com/sheikhmunim)  
 - [Email Me](mailto:s4076159@student.rmit.edu.au)  
