@@ -1,7 +1,8 @@
+<table>
+<tr>
+<td style="width:70%; vertical-align: top;">
+
 # Sheikh Abdul Munim
-
-![Profile Photo](assets/me.jpg)
-
 
 **Master of Artificial Intelligence | Robotics | AI Planning | RMIT University**
 
@@ -20,3 +21,12 @@ Currently, I am pursuing my Master's at RMIT University, building intelligent ta
 - [Blog](blog.md)  
 - [GitHub Profile](https://github.com/sheikhmunim)  
 - [Email Me](mailto:s4076159@student.rmit.edu.au)  
+
+</td>
+<td style="width:30%; text-align: center;">
+
+<img src="assets/me.jpg" alt="Profile Photo" width="150">
+
+</td>
+</tr>
+</table>
