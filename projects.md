@@ -29,6 +29,8 @@ Key Areas I Worked On:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_XUKwFcZk8w" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/09Qke4tSgoA" frameborder="0" allowfullscreen></iframe>
+
 ---
 
 ## ROS2 Search & Navigation Challenge — Hazard Detection  
@@ -40,7 +42,8 @@ Contributed to the development of an autonomous robot capable of exploring unkno
 - Designed and implemented the Hazard Detection module using ROS2 and TF2.  
 - Integrated camera-based object detection to identify and localize hazards in real-time.  
 - Transformed hazard positions from the camera frame to the global map frame for accurate localization.  
-- Published visual hazard markers for real-time RViz visualization and system status updates.  
+- Developed and implemented wall-following navigation logic for autonomous maze exploration.  
+- Published visual hazard markers for real-time RViz visualization and system status updates.
 
 **Tools & Technologies:** ROS2, Python, TF2, RViz, Computer Vision  
 
